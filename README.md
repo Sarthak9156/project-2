@@ -24,3 +24,6 @@ User enters a mood → Backend processes it → Returns personalized recommendat
 * AI-based sentiment analysis
 * Movie poster integration (OMDb API)
 * User authentication system
+
+ Preview
+![App Screenshot](screenshot.png)
