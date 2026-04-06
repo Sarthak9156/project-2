@@ -26,4 +26,4 @@ User enters a mood → Backend processes it → Returns personalized recommendat
 * User authentication system
 
  Preview
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot 2026-04-06 152128.png)
