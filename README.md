@@ -27,4 +27,4 @@ User enters a mood → Backend processes it → Returns personalized recommendat
 
  Preview
 
-![App Screenshot](Screenshot 2026-04-06 152128.png)
+![App Screenshot]([Screenshot 2026-04-06 152128.png](https://github.com/Sarthak9156/project-2/blob/master/Screenshot%202026-04-06%20152128.png))
