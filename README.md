@@ -9,7 +9,7 @@ A mood-based recommendation system that suggests movies, songs, and books based 
 * REST API integration using Spring Boot
 * MySQL database connectivity
 
-## 🛠 Tech Stack
+ Tech Stack
 
 * Java (Spring Boot)
 * MySQL
